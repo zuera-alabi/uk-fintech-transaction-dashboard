@@ -51,3 +51,19 @@ uk-fintech-transaction-dashboard/
 
 ### 5. Strategic Recommendations
 ![Recommendations](images/Recommendation.png)
+## 🔍 Key Findings
+- 📌 Total transaction volume of £16M across 15,000 transactions with 84.94% success rate
+- 📌 United Kingdom dominates revenue contribution across all European markets
+- 📌 Transfer transactions generate the highest fees at £90K
+- 📌 Fraudulent activity accounts for 3.9% putting £910.57K at financial risk
+- 📌 Food & Dining and Shopping are the most targeted fraud categories
+- 📌 Peak fraud windows identified between 10am–8pm
+
+## 👩🏽‍💻 About the Author
+**Zuera Alabi**
+Data Analyst | Python | SQL | Power BI | Excel
+
+Behind every dataset is a decision waiting to be made — I help businesses find it.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/zuera-alabi)
+🔗 [GitHub](https://github.com/zuera-alabi)
