@@ -63,7 +63,7 @@ uk-fintech-transaction-dashboard/
 **Zuera Alabi**
 Data Analyst | Python | SQL | Power BI | Excel
 
-Behind every dataset is a decision waiting to be made — I help businesses find it.
+Behind every dataset is a decision waiting to be made, I help businesses find it.
 
 🔗  [LinkedIn](https://www.linkedin.com/in/zuera-alabi-4b85a7282/)
 🔗 [GitHub](https://github.com/zuera-alabi)
